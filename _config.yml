@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Bionic Era"
+title:            "Gate of Seoul"
 description:      ""
-baseurl:     "BE"
+baseurl:     "GOS"
 url:              "" # Site url, without a slash at the end.
 signoff:          "lord-asgord" 
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
